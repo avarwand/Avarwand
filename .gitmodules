@@ -67,3 +67,6 @@
 [submodule "Software/ASS"]
 	path = Software/ASS
 	url = git@github.com:payam-avarwand/ASS.git
+[submodule "Software/AFTG"]
+	path = Software/AFTG
+	url = git@github.com:payam-avarwand/AFTG.git
