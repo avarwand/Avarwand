@@ -1,6 +1,3 @@
-[submodule "Software/SSCM"]
-	path = Software/SSCM
-	url = git@github.com:payam-avarwand/SSCM.git
 [submodule "Software/Py-To-Exe Converter"]
 	path = Software/Py-To-Exe Converter
 	url = git@github.com:payam-avarwand/Py-To-Exe-Converter.git
@@ -70,3 +67,6 @@
 [submodule "Software/AFTG"]
 	path = Software/AFTG
 	url = git@github.com:payam-avarwand/AFTG.git
+[submodule "Software/AFCm"]
+	path = Software/AFCm
+	url = git@github.com:payam-avarwand/AFCm.git
