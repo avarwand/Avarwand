@@ -1,4 +1,4 @@
-# 🛠️ Avarwand Software
+# Avarwand Software
 
 > **A growing collection of free, offline and practical tools built for everyday users.**
 
