@@ -1,15 +1,17 @@
 # 🛠️ Avarwand Software
 
-> **A growing collection of free, practical tools built for everyday users.**
+> **A growing collection of free, offline and practical tools built for everyday users.**
 
 
 ---
 
-## 📖 About Avarwand Software
+## 📖 About
 
-**Avarwand Software** is an independent software project dedicated to building lightweight, reliable, and genuinely useful tools for everyday computer users — completely free of charge.
+**Avarwand Software** is an independent software project dedicated to building lightweight, reliable, and genuinely useful tools for everyday computer users, completely free of charge.
 
-Every tool in this collection is designed with a single principle in mind: **solve a real problem, simply and effectively.** No subscriptions, no paywalls, no unnecessary complexity. Just tools that work.
+Every tool in this collection is designed with a single principle in mind:
+**solve a real problem, simply and effectively.**
+No subscriptions, no paywalls, no unnecessary complexity. Just tools that work.
 
 This repository is the **central hub** of the Avarwand ecosystem. Each of the individual tools lives in its own dedicated sub-repository (submodule), keeping things organized and easy to navigate. Whether you're looking for a single utility or want to explore the full suite, you'll find everything linked here.
 
@@ -19,7 +21,7 @@ This repository is the **central hub** of the Avarwand ecosystem. Each of the in
 
 All Avarwand tools are introduced, demonstrated through the official **Avarwand Software** YouTube channel.
 
-📺 **[youtube.com/@AvarwandSoftware](https://www.youtube.com/@AvarwandS)**
+📺 **[youtube.com/@AvarwandS](https://www.youtube.com/@AvarwandS)**
 
 On the channel you'll find:
 - 🎥 **Tool introductions** — What each tool does and why it was built
@@ -33,7 +35,7 @@ On the channel you'll find:
 
 ## 🧰 Tools & Submodules
 
-This repository contains **25+ submodules**, each representing an individual software tool. Every submodule has its own README with a description, download link, and usage guide.
+This repository contains all **submodules**, each representing an individual software tool. Every submodule has its own README with a description, download link, and usage guide.
 
 > Browse the full list of tools in the submodule directories below, or visit each repository directly.
 
@@ -78,4 +80,4 @@ Please refer to the `LICENSE` file within each individual tool's repository for 
 ---
 
 
-Made with care &nbsp;·&nbsp; **Avarwand Software**
+Made with care &nbsp;·&nbsp; **Avarwand Software Team**
