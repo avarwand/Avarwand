@@ -39,10 +39,11 @@ This repository contains all **submodules**, each representing an individual sof
 
 > Browse the full list of tools in the submodule directories below, or visit each repository directly.
 
-| # | Tool Repository | Description |
+| # | Tool Repository | Introduction |
 |---|----------------|-------------|
-| 1 | *(submodule)* | — |
-| 2 | *(submodule)* | — |
+| 1 | *ANE* | [A Name Editor](https://www.youtube.com/watch?v=NZRa0FDwxQw&t=79s) |
+| 2 | *APC* | [A Picture Converter](https://www.youtube.com/watch?v=fmu5XOgImuA&t=78s) |
+| 3 | *ABFZ* | [A Batch File Zipper](https://www.youtube.com/watch?v=u7cQfEtE-iY) |
 | … | … | … |
 
 > 💡 *The table above is a placeholder structure. As tools are introduced on the YouTube channel and their repositories go public, this table will be updated with names, descriptions, and direct links.*
