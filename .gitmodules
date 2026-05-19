@@ -73,3 +73,6 @@
 [submodule "Software/AvCm"]
 	path = Software/AvCm
 	url = git@github.com:payam-avarwand/AvCm.git
+[submodule "Software/AGm"]
+	path = Software/AGm
+	url = git@github.com:avarwand/AGm.git
