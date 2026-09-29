@@ -97,3 +97,6 @@
 [submodule "Software/AWiX"]
 	path = Software/AWiX
 	url = git@github.com:avarwand/AWiX.git
+[submodule "Software/ASm"]
+	path = Software/ASm
+	url = https://github.com/avarwand/ASm.git
