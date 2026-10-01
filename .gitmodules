@@ -58,9 +58,6 @@
 [submodule "Software/ACSVm"]
 	path = Software/ACSVm
 	url = git@github.com:payam-avarwand/ACSVm.git
-[submodule "Software/ASS"]
-	path = Software/ASS
-	url = git@github.com:payam-avarwand/ASS.git
 [submodule "Software/AFTG"]
 	path = Software/AFTG
 	url = git@github.com:payam-avarwand/AFTG.git
@@ -100,3 +97,6 @@
 [submodule "Software/ASm"]
 	path = Software/ASm
 	url = https://github.com/avarwand/ASm.git
+[submodule "Software/ASS"]
+	path = Software/ASS
+	url = https://github.com/avarwand/ASS.git
