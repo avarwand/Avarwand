@@ -97,3 +97,6 @@
 [submodule "Software/ASS"]
 	path = Software/ASS
 	url = https://github.com/avarwand/ASS.git
+[submodule "Software/ABFZ"]
+	path = Software/ABFZ
+	url = https://github.com/avarwand/A-Batch-File-Zipper.git
