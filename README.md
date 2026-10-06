@@ -54,7 +54,7 @@ This repository contains all **submodules**, each representing an individual sof
 
 Avarwand tools are built around a few core values:
 
-- **Free** : Most of the tools in this collection is freeware. No hidden costs.
+- **Free** : Most of the tools in this collection are freeware. No hidden costs.
 - **Offline** : Most of the tools work offline, which means you won't need an internet connection to use them.
 - **Lightweight** : Tools should be small, fast, and unobtrusive.
 - **Accessible** : Designed for general users, not just power users or developers.
