@@ -100,3 +100,6 @@
 [submodule "Software/ABFZ"]
 	path = Software/ABFZ
 	url = https://github.com/avarwand/A-Batch-File-Zipper.git
+[submodule "Software/AOVA"]
+	path = Software/AOVA
+	url = https://github.com/avarwand/AOVA.git
