@@ -103,3 +103,6 @@
 [submodule "Software/AOVA"]
 	path = Software/AOVA
 	url = https://github.com/avarwand/AOVA.git
+[submodule "Software/APSm"]
+	path = Software/APSm
+	url = https://github.com/avarwand/APSm.git
