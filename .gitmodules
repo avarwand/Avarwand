@@ -7,9 +7,6 @@
 [submodule "Software/Wiki Tazeh"]
 	path = Software/Wiki Tazeh
 	url = git@github.com:payam-avarwand/Wiki-Tazeh.git
-[submodule "Software/Portable Software Manager"]
-	path = Software/Portable Software Manager
-	url = git@github.com:payam-avarwand/Portable-Software-Manager.git
 [submodule "Software/MSI Property Explorer"]
 	path = Software/MSI Property Explorer
 	url = git@github.com:payam-avarwand/MSI-Property-Explorer.git
