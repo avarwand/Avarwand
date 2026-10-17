@@ -103,3 +103,6 @@
 [submodule "Software/ABFZ"]
 	path = Software/ABFZ
 	url = https://github.com/avarwand/ABFZ.git
+[submodule "Software/ADT-Config Generator"]
+	path = Software/ADT-Config Generator
+	url = https://github.com/avarwand/ADT-Config-Generator.git
