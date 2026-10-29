@@ -109,3 +109,6 @@
 [submodule "Software/AWT"]
 	path = Software/AWT
 	url = https://github.com/avarwand/AWT.git
+[submodule "Software/Avarwand Sound Studio"]
+	path = Software/Avarwand Sound Studio
+	url = git@github.com:avarwand/Sound-Studio.git
