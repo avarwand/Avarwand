@@ -44,6 +44,7 @@ This repository contains all **submodules**, each representing an individual sof
 | 1 | *ANE* | [A Name Editor](https://www.youtube.com/watch?v=NZRa0FDwxQw&t=79s) |
 | 2 | *APC* | [A Picture Converter](https://www.youtube.com/watch?v=fmu5XOgImuA&t=78s) |
 | 3 | *ABFZ* | [A Batch File Zipper](https://www.youtube.com/watch?v=u7cQfEtE-iY) |
+| 4 | *AGm* | [A Git manager](https://www.youtube.com/watch?v=nYi17ECRHMk) |
 | … | … | … |
 
 > 💡 *The table above is a placeholder structure. As tools are introduced on the YouTube channel and their repositories go public, this table will be updated with names, descriptions, and direct links.*
