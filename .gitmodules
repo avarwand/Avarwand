@@ -106,3 +106,6 @@
 [submodule "Software/PS1-To-Exe"]
 	path = Software/PS1-To-Exe
 	url = https://github.com/avarwand/PS1-to-Exe
+[submodule "Software/AYD"]
+	path = Software/AYD
+	url = git@github.com:avarwand/AYD.git
