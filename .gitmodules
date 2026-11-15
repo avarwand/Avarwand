@@ -109,3 +109,6 @@
 [submodule "Software/AYCm"]
 	path = Software/AYCm
 	url = git@github.com:avarwand/AYCM.git
+[submodule "Software/A-Music-Visualizer"]
+	path = Software/A-Music-Visualizer
+	url = git@github.com:avarwand/A-Music-Visualizer.git
