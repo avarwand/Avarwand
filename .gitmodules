@@ -22,9 +22,6 @@
 [submodule "Software/PWE"]
 	path = Software/PWE
 	url = git@github.com:payam-avarwand/PWE.git
-[submodule "Software/PS1 to Exe Converter"]
-	path = Software/PS1 to Exe Converter
-	url = git@github.com:payam-avarwand/PS1-to-Exe-Converter.git
 [submodule "Software/ADUm"]
 	path = Software/ADUm
 	url = git@github.com:payam-avarwand/ADUm.git
