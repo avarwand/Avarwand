@@ -7,9 +7,6 @@
 [submodule "Software/MSI Installer"]
 	path = Software/MSI Installer
 	url = git@github.com:payam-avarwand/MSI-Installer.git
-[submodule "Software/A Back"]
-	path = Software/A Back
-	url = git@github.com:payam-avarwand/A-Back.git
 [submodule "Software/ADUm"]
 	path = Software/ADUm
 	url = git@github.com:payam-avarwand/ADUm.git
