@@ -106,3 +106,6 @@
 [submodule "Software/Avarwand Sound Studio"]
 	path = Software/Avarwand Sound Studio
 	url = git@github.com:avarwand/Sound-Studio.git
+[submodule "Software/PS1-To-Exe"]
+	path = Software/PS1-To-Exe
+	url = https://github.com/avarwand/PS1-to-Exe
