@@ -109,3 +109,6 @@
 [submodule "Software/Wikipedia-Contribution-Finder"]
 	path = Software/Wikipedia-Contribution-Finder
 	url = git@github.com:avarwand/Wikipedia-Contribution-Finder.git
+[submodule "Software/Py-To-Exe-Converter"]
+	path = Software/Py-To-Exe-Converter
+	url = git@github.com:avarwand/Py-To-Exe-Converter.git
