@@ -1,9 +1,6 @@
 [submodule "Software/Py-To-Exe Converter"]
 	path = Software/Py-To-Exe Converter
 	url = git@github.com:payam-avarwand/Py-To-Exe-Converter.git
-[submodule "Software/Wikipedia Contribution Finder"]
-	path = Software/Wikipedia Contribution Finder
-	url = git@github.com:payam-avarwand/Wikipedia-Contribution-Finder.git
 [submodule "Software/Wiki Tazeh"]
 	path = Software/Wiki Tazeh
 	url = git@github.com:payam-avarwand/Wiki-Tazeh.git
