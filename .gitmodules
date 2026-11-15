@@ -10,9 +10,6 @@
 [submodule "Software/ADUm"]
 	path = Software/ADUm
 	url = git@github.com:payam-avarwand/ADUm.git
-[submodule "Software/A PDF Converter"]
-	path = Software/A PDF Converter
-	url = git@github.com:payam-avarwand/A-PDF-Converter.git
 [submodule "Software/ADCm"]
 	path = Software/ADCm
 	url = git@github.com:payam-avarwand/ADCm.git
