@@ -109,3 +109,6 @@
 [submodule "Software/A-Music-Visualizer"]
 	path = Software/A-Music-Visualizer
 	url = git@github.com:avarwand/A-Music-Visualizer.git
+[submodule "Software/A PDF Converter"]
+	path = Software/A PDF Converter
+	url = git@github.com:avarwand/A-PDF-Converter.git
