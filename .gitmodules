@@ -109,3 +109,6 @@
 [submodule "Software/PWE"]
 	path = Software/PWE
 	url = git@github.com:avarwand/PWE.git
+[submodule "Software/Wikipedia-Contribution-Finder"]
+	path = Software/Wikipedia-Contribution-Finder
+	url = git@github.com:avarwand/Wikipedia-Contribution-Finder.git
