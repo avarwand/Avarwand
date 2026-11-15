@@ -16,9 +16,6 @@
 [submodule "Software/A Back"]
 	path = Software/A Back
 	url = git@github.com:payam-avarwand/A-Back.git
-[submodule "Software/PWE"]
-	path = Software/PWE
-	url = git@github.com:payam-avarwand/PWE.git
 [submodule "Software/ADUm"]
 	path = Software/ADUm
 	url = git@github.com:payam-avarwand/ADUm.git
