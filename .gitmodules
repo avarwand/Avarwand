@@ -109,3 +109,6 @@
 [submodule "Software/ADCr"]
 	path = Software/ADCr
 	url = git@github.com:avarwand/ADCR.git
+[submodule "Software/PWE"]
+	path = Software/PWE
+	url = git@github.com:avarwand/PWE.git
