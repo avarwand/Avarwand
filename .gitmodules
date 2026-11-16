@@ -1,27 +1,27 @@
 [submodule "Software/MSI Installer"]
 	path = Software/MSI Installer
-	url = git@github.com:payam-avarwand/MSI-Installer.git
+	url = git@github.com:avarwand/MSI-Installer.git
 [submodule "Software/ADUm"]
 	path = Software/ADUm
-	url = git@github.com:payam-avarwand/ADUm.git
+	url = git@github.com:avarwand/ADUm.git
 [submodule "Software/ADCm"]
 	path = Software/ADCm
-	url = git@github.com:payam-avarwand/ADCm.git
+	url = git@github.com:avarwand/ADCm.git
 [submodule "Software/ANE"]
 	path = Software/ANE
-	url = git@github.com:payam-avarwand/ANE.git
+	url = git@github.com:avarwand/ANE.git
 [submodule "Software/ADGm"]
 	path = Software/ADGm
-	url = git@github.com:payam-avarwand/ADGm.git
+	url = git@github.com:avarwand/ADGm.git
 [submodule "Software/ACSVm"]
 	path = Software/ACSVm
-	url = git@github.com:payam-avarwand/ACSVm.git
+	url = git@github.com:avarwand/ACSVm.git
 [submodule "Software/AFTG"]
 	path = Software/AFTG
-	url = git@github.com:payam-avarwand/AFTG.git
+	url = git@github.com:avarwand/AFTG.git
 [submodule "Software/AvCm"]
 	path = Software/AvCm
-	url = git@github.com:payam-avarwand/AvCm.git
+	url = git@github.com:avarwand/AvCm.git
 [submodule "Software/AGm"]
 	path = Software/AGm
 	url = git@github.com:avarwand/AGm.git
