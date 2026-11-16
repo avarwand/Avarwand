@@ -1,6 +1,3 @@
-[submodule "Software/MSI Installer"]
-	path = Software/MSI Installer
-	url = git@github.com:avarwand/MSI-Installer.git
 [submodule "Software/ADUm"]
 	path = Software/ADUm
 	url = git@github.com:avarwand/ADUm.git
