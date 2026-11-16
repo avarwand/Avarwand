@@ -109,3 +109,6 @@
 [submodule "Software/MSI Installer"]
 	path = Software/MSI Installer
 	url = git@github.com:avarwand/MSI-Installer.git
+[submodule "Software/ACSVm"]
+	path = Software/ACSVm
+	url = git@github.com:avarwand/ACSVm.git
