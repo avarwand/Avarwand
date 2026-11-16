@@ -109,3 +109,6 @@
 [submodule "Software/Wiki Tazeh"]
 	path = Software/Wiki Tazeh
 	url = git@github.com:avarwand/Wiki-Tazeh.git
+[submodule "Software/AFCm"]
+	path = Software/AFCm
+	url = git@github.com:avarwand/AFCm.git
