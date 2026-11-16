@@ -10,9 +10,6 @@
 [submodule "Software/ADGm"]
 	path = Software/ADGm
 	url = git@github.com:avarwand/ADGm.git
-[submodule "Software/ACSVm"]
-	path = Software/ACSVm
-	url = git@github.com:avarwand/ACSVm.git
 [submodule "Software/AFTG"]
 	path = Software/AFTG
 	url = git@github.com:avarwand/AFTG.git
