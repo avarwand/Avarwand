@@ -109,3 +109,6 @@
 [submodule "Software/A PDF Converter"]
 	path = Software/A PDF Converter
 	url = git@github.com:avarwand/A-PDF-Converter.git
+[submodule "Software/Wiki Tazeh"]
+	path = Software/Wiki Tazeh
+	url = git@github.com:avarwand/Wiki-Tazeh.git
