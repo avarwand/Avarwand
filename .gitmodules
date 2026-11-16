@@ -22,9 +22,6 @@
 [submodule "Software/AFTG"]
 	path = Software/AFTG
 	url = git@github.com:payam-avarwand/AFTG.git
-[submodule "Software/AFCm"]
-	path = Software/AFCm
-	url = git@github.com:payam-avarwand/AFCm.git
 [submodule "Software/AvCm"]
 	path = Software/AvCm
 	url = git@github.com:payam-avarwand/AvCm.git
