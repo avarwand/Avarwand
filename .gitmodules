@@ -112,3 +112,6 @@
 [submodule "Software/ACSVm"]
 	path = Software/ACSVm
 	url = git@github.com:avarwand/ACSVm.git
+[submodule "Software/AL"]
+	path = Software/AL
+	url = git@github.com:avarwand/AL.git
