@@ -46,6 +46,7 @@ This repository contains all **submodules**, each representing an individual sof
 | 3 | *ABFZ* | [A Batch File Zipper](https://www.youtube.com/watch?v=u7cQfEtE-iY) |
 | 4 | *AGm* | [A Git manager](https://www.youtube.com/watch?v=nYi17ECRHMk) |
 | 5 | *AWT* | [A Windows Toolset](https://www.youtube.com/watch?v=RaauN4R-830) |
+| 6 | *AVE* | [A Video Editor](https://www.youtube.com/watch?v=K82pG2nk_Ls&t=3s) |
 | … | … | … |
 
 
