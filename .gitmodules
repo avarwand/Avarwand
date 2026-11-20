@@ -1,6 +1,3 @@
-[submodule "Software/ADUm"]
-	path = Software/ADUm
-	url = git@github.com:avarwand/ADUm.git
 [submodule "Software/ADCm"]
 	path = Software/ADCm
 	url = git@github.com:avarwand/ADCm.git
