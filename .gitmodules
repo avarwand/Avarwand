@@ -7,9 +7,6 @@
 [submodule "Software/ANE"]
 	path = Software/ANE
 	url = git@github.com:avarwand/ANE.git
-[submodule "Software/ADGm"]
-	path = Software/ADGm
-	url = git@github.com:avarwand/ADGm.git
 [submodule "Software/AFTG"]
 	path = Software/AFTG
 	url = git@github.com:avarwand/AFTG.git
