@@ -45,12 +45,12 @@ This repository contains all **submodules**, each representing an individual sof
 
 | # | Tool Repository | Introduction | Microsoft Verification | Package ID |
 |---|----------------|-------------|-------------|-------------|
-| 1 | *ANE* | [Bulk File and Folder Name Editor | offline | free](https://www.youtube.com/watch?v=NZRa0FDwxQw&t=79s) | WinGet **Verified** & **Available** | *Avarwand.ANE* |
-| 2 | *APC* | [Bulk Picture Converter | offline | free](https://www.youtube.com/watch?v=fmu5XOgImuA&t=78s) | WinGet **Verified** & **Available** | *Avarwand.APC* |
-| 3 | *ABFZ* | [Batch File Zipper | offline | free](https://www.youtube.com/watch?v=u7cQfEtE-iY) | WinGet **Verified** & **Available** | *Avarwand.ABFZ* |
-| 4 | *AGm* | [Graphical Git manager | offline | free](https://www.youtube.com/watch?v=nYi17ECRHMk) | … | … |
+| 1 | *ANE* | [Bulk File and Folder Name Editor](https://www.youtube.com/watch?v=NZRa0FDwxQw&t=79s) | WinGet **Verified** & **Available** | *Avarwand.ANE* |
+| 2 | *APC* | [Bulk Picture Converter](https://www.youtube.com/watch?v=fmu5XOgImuA&t=78s) | WinGet **Verified** & **Available** | *Avarwand.APC* |
+| 3 | *ABFZ* | [Batch File Zipper](https://www.youtube.com/watch?v=u7cQfEtE-iY) | WinGet **Verified** & **Available** | *Avarwand.ABFZ* |
+| 4 | *AGm* | [Graphical Git manager](https://www.youtube.com/watch?v=nYi17ECRHMk) | … | … |
 | 5 | *AWT* | [Graphical Windows Toolset](https://www.youtube.com/watch?v=RaauN4R-830) | … | … |
-| 6 | *AVE* | [Video Editor | offline | free | Multi-Purpose | Maximum Control and Flexibility Over Outputs](https://www.youtube.com/watch?v=K82pG2nk_Ls&t=3s) | … | … |
+| 6 | *AVE* | [Video Editor with Max. flexibility over outputs](https://www.youtube.com/watch?v=K82pG2nk_Ls&t=3s) | … | … |
 | … | … | … | … |
 
 
