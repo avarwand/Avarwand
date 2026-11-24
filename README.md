@@ -17,6 +17,10 @@ This repository is the **central hub** of the Avarwand ecosystem. Each of the in
 
 ---
 
+<img width="542" height="600" alt="ASm_pie_chart_2026-11-24 LIGHT" src="https://github.com/user-attachments/assets/a93ca3a2-fc30-43aa-8778-9c2daa936e3a" />
+
+---
+
 ## 🎬 YouTube Channel
 
 All Avarwand tools are introduced, demonstrated through the official **Avarwand Software** YouTube channel.
@@ -85,4 +89,4 @@ Please refer to the `LICENSE` file within each individual tool's repository for 
 ---
 
 
-Made with care &nbsp;·&nbsp; **Avarwand Software Team**
+Made with care &nbsp;·&nbsp; **Avarwand Software Team** &nbsp;·&nbsp; 2024-2026
