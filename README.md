@@ -45,9 +45,9 @@ This repository contains all **submodules**, each representing an individual sof
 
 | # | Tool Repository | Introduction |
 |---|----------------|-------------|
-| 1 | *ANE* | [A Name Editor](https://www.youtube.com/watch?v=NZRa0FDwxQw&t=79s) |
-| 2 | *APC* | [A Picture Converter](https://www.youtube.com/watch?v=fmu5XOgImuA&t=78s) |
-| 3 | *ABFZ* | [A Batch File Zipper](https://www.youtube.com/watch?v=u7cQfEtE-iY) |
+| 1 | *ANE* | [A Name Editor](https://www.youtube.com/watch?v=NZRa0FDwxQw&t=79s) | Microsoft Package Manager **Verified** & **Available** |
+| 2 | *APC* | [A Picture Converter](https://www.youtube.com/watch?v=fmu5XOgImuA&t=78s) | Microsoft Package Manager **Verified** & **Available** |
+| 3 | *ABFZ* | [A Batch File Zipper](https://www.youtube.com/watch?v=u7cQfEtE-iY) | Microsoft Package Manager **Verified** & **Available** |
 | 4 | *AGm* | [A Git manager](https://www.youtube.com/watch?v=nYi17ECRHMk) |
 | 5 | *AWT* | [A Windows Toolset](https://www.youtube.com/watch?v=RaauN4R-830) |
 | 6 | *AVE* | [A Video Editor](https://www.youtube.com/watch?v=K82pG2nk_Ls&t=3s) |
