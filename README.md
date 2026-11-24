@@ -43,7 +43,7 @@ This repository contains all **submodules**, each representing an individual sof
 
 > Browse the full list of tools in the submodule directories below, or visit each repository directly.
 
-| # | Tool Repository | Introduction | Microsoft Verification | Package ID |
+| # | Software Name | Introduction | Microsoft Verification | Package ID |
 |---|----------------|-------------|-------------|-------------|
 | 1 | *ANE* | [Bulk File and Folder Name Editor](https://www.youtube.com/watch?v=NZRa0FDwxQw&t=79s) | WinGet **Verified** & **Available** | *Avarwand.ANE* |
 | 2 | *APC* | [Bulk Picture Converter](https://www.youtube.com/watch?v=fmu5XOgImuA&t=78s) | WinGet **Verified** & **Available** | *Avarwand.APC* |
