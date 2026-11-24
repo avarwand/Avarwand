@@ -43,8 +43,8 @@ This repository contains all **submodules**, each representing an individual sof
 
 > Browse the full list of tools in the submodule directories below, or visit each repository directly.
 
-| # | Tool Repository | Introduction |
-|---|----------------|-------------|
+| # | Tool Repository | Introduction | Verification |
+|---|----------------|-------------|-------------|
 | 1 | *ANE* | [A Name Editor](https://www.youtube.com/watch?v=NZRa0FDwxQw&t=79s) | Microsoft Package Manager **Verified** & **Available** |
 | 2 | *APC* | [A Picture Converter](https://www.youtube.com/watch?v=fmu5XOgImuA&t=78s) | Microsoft Package Manager **Verified** & **Available** |
 | 3 | *ABFZ* | [A Batch File Zipper](https://www.youtube.com/watch?v=u7cQfEtE-iY) | Microsoft Package Manager **Verified** & **Available** |
