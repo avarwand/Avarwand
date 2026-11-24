@@ -43,14 +43,14 @@ This repository contains all **submodules**, each representing an individual sof
 
 > Browse the full list of tools in the submodule directories below, or visit each repository directly.
 
-| # | Tool Repository | Introduction | Microsoft Verification |
-|---|----------------|-------------|-------------|
-| 1 | *ANE* | [A Name Editor](https://www.youtube.com/watch?v=NZRa0FDwxQw&t=79s) | WinGet **Verified** & **Available** |
-| 2 | *APC* | [A Picture Converter](https://www.youtube.com/watch?v=fmu5XOgImuA&t=78s) | WinGet **Verified** & **Available** |
-| 3 | *ABFZ* | [A Batch File Zipper](https://www.youtube.com/watch?v=u7cQfEtE-iY) | WinGet **Verified** & **Available** |
-| 4 | *AGm* | [A Git manager](https://www.youtube.com/watch?v=nYi17ECRHMk) | … |
-| 5 | *AWT* | [A Windows Toolset](https://www.youtube.com/watch?v=RaauN4R-830) | … |
-| 6 | *AVE* | [A Video Editor](https://www.youtube.com/watch?v=K82pG2nk_Ls&t=3s) | … |
+| # | Tool Repository | Introduction | Microsoft Verification | Package ID |
+|---|----------------|-------------|-------------|-------------|
+| 1 | *ANE* | [A Name Editor](https://www.youtube.com/watch?v=NZRa0FDwxQw&t=79s) | WinGet **Verified** & **Available** | *Avarwand.ANE* |
+| 2 | *APC* | [A Picture Converter](https://www.youtube.com/watch?v=fmu5XOgImuA&t=78s) | WinGet **Verified** & **Available** | *Avarwand.APC* |
+| 3 | *ABFZ* | [A Batch File Zipper](https://www.youtube.com/watch?v=u7cQfEtE-iY) | WinGet **Verified** & **Available** | *Avarwand.ABFZ* |
+| 4 | *AGm* | [A Git manager](https://www.youtube.com/watch?v=nYi17ECRHMk) | … | … |
+| 5 | *AWT* | [A Windows Toolset](https://www.youtube.com/watch?v=RaauN4R-830) | … | … |
+| 6 | *AVE* | [A Video Editor](https://www.youtube.com/watch?v=K82pG2nk_Ls&t=3s) | … | … |
 | … | … | … | … |
 
 
